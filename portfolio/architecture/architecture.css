@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+  }
+  
+  .header {
+    margin: 10px 25px;
+  }
+  
+  .header h5 {
+    /* margin: 10px 5px; */
+    color: white;
+    text-decoration: none;
+  }
+  
+  .port {
+    text-decoration: none;
+  }
+  
+  .item {
+    transition: .5s ease-in-out;
+    filter: brightness(70%);
+  }
+  
+  .item:hover {
+    filter: none;
+  }

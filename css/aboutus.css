@@ -1,0 +1,38 @@
+.head{
+    height: 100px;
+    width: 100%;
+    margin-top: 10px;
+    padding-top: 10px ;
+}
+.header h1{
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+.container{
+    /* height: 600px; */
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 2px solid red; */
+    
+}
+body{
+    background-color: black;
+}
+
+#item2{
+    margin: 10px 10px;
+    max-width: 500px;
+    /* margin-left: 5px; */
+}
+
+#item2 p{
+    color: white;
+}
+
+#item1 img{
+    height: 500px;
+    width: 500px;
+}
